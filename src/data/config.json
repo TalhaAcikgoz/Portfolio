@@ -1,0 +1,41 @@
+{
+  "job": "FullStack Developer",
+  "name": "Talha Açıkgöz",
+  "desc": "The traveler of this path, a FullStack Developer in Turkey.",
+  "aboutDesc": "I'm Talha Açıkgöz, a web eveloper from Turkey. I aim to make a difference in the world. I am a study Software Engineering at 42Kocaeli.",
+  "email": "tacikgoz58@gmail.com",
+  "status": "on",
+  "hireMeLink": "https://bionluk.com/gangbi3",
+  "projects": [
+    {
+      "project-image-url": "https://github.com/kaanayyildiz/benfolio/assets/39806458/9d826c30-0135-4620-8e0f-bc3460848e5e",
+      "project-name": "transcendence",
+      "project-desc": "A multiplayer PingPong game website.",
+      "project-url": "https://github.com/TalhaAcikgoz/Transcendence"
+    },
+    {
+      "project-image-url": "https://github.com/kaanayyildiz/benfolio/assets/39806458/9d826c30-0135-4620-8e0f-bc3460848e5e",
+      "project-name": "MyIdentityApp",
+      "project-desc": "A web application that allows you to create your own company tracking system.",
+      "project-url": "https://github.com/TalhaAcikgoz/MyIdentityApp"
+    }
+  ],
+  "social": [
+    {
+      "icon": "FaGithub",
+      "link": "https://github.com/TalhaAcikgoz"
+    },
+    {
+      "icon": "FaLinkedinIn",
+      "link": "https://linkedin.com"
+    }
+  ],
+  "project": [
+    {
+      "project-image-url": "https://github.com/kaanayyildiz/benfolio/assets/39806458/9d826c30-0135-4620-8e0f-bc3460848e5e",
+      "project-name": "transcendence",
+      "project-desc": "A multiplayer PingPong game website.",
+      "project-url": "https://github.com/TalhaAcikgoz/Transcendence"
+    }
+  ]
+}
